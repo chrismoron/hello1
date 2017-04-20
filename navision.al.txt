@@ -1,4 +1,4 @@
 main
 {
-   printf('navision');
+   printf('navision C/AL');
 }
