@@ -1,4 +1,0 @@
-main
-{
-   printf('navision C/AL666');
-}
