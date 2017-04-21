@@ -1,4 +1,9 @@
 main
 {
+<<<<<<< HEAD
    printf('navision C/AL666');
+=======
+   printf('navision C/AL12');
+   printf('navision C/AL33');
+>>>>>>> 15156433ac1b9edf3f576ee26e623b380210e20f
 }
