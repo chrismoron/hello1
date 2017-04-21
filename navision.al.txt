@@ -1,4 +1,8 @@
 main
 {
+<<<<<<< HEAD
    printf('navision C/AL1'1);
+=======
+   printf('navision C/AL3');
+>>>>>>> 54359afeeb8a19d7b4b43be93d2c3b543db5bbd5
 }
