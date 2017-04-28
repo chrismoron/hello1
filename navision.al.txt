@@ -1,6 +1,6 @@
 main
 {
-   printf('navision C/AL B');
+   printf('navision C/AL 222');
    begin
    printf('navision C/AL Native');
    end;
