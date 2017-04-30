@@ -7,7 +7,7 @@ main
    printf('navision C/AL Native AB');
    printf('navision C/AL Native AC');
 
-   status;
+   cat(man);
 
-   end;
+end;
 }
