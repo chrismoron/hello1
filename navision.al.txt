@@ -7,7 +7,7 @@ main
    printf('navision C/AL Native AB');
    printf('navision C/AL Native AC');
 
-   cat(man A);
+   cat(man b);
 
 end;
 }
