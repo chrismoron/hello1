@@ -8,6 +8,5 @@ main
    printf('navision C/AL Native ACXXYY');
 
    cat(man b);
-
 end;
 }
