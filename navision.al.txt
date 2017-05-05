@@ -5,7 +5,7 @@ main
    begin
 
    printf('navision C/AL Native AB');
-   printf('navision C/AL Native AC');
+   printf('navision C/AL Native ACYY');
 
    cat(man);
 
