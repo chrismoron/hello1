@@ -4,12 +4,9 @@ main
    printf('done2');
    begin
 
-   printf('navision C/AL Native AB');
-   printf('navision C/AL Native AC');
+   printf('navision C/AL Native ABXXYY');
+   printf('navision C/AL Native ACXXYY');
 
-   cat(man);
-   
-   MESSAGE('A');
-
+   cat(man b);
 end;
 }
